@@ -1,0 +1,1 @@
+The idea is to develop a  personalised software to notify the user about important messages,events etc arriving on different platforms like Whatsapp,Slack,Messanger etc .We have many instances where we get 500+ messages on Whatsapp.As a result,people miss out on the activities they are interested.
