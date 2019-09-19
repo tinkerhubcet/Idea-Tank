@@ -6,6 +6,7 @@
     * Lipo batteries etc.
 
 ## Included Videos
+### [Quadcopter video](https://photos.app.goo.gl/qxwSvHjmQPd9qPkf8)
 ### [ESC Calibration Video](https://www.youtube.com/watch?v=qVy39tRL7Kc)
 ### [Quadcopter Flying Video](https://www.youtube.com/watch?v=rKsDd3vwVL8)
 
